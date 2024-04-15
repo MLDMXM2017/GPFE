@@ -1,5 +1,5 @@
 # GPFE
-This is a Python library that implements GPFE, as described in "An Interpretable Multi-View Genetic Programming-Based Feature Establishment Algorithm for Anti-Tumor Synergistic Drug Combination Prediction".
+This is a Python library that implements GPFE, as described in paper "An Interpretable Multi-View Genetic Programming-Based Feature Establishment Algorithm for Anti-Tumor Synergistic Drug Combination Prediction".
 
 # Requirements
 Package|Version
